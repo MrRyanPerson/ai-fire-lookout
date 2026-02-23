@@ -5,7 +5,7 @@ import os
 
 
 global lambda_url
-lambda_url = "https://u0pnkhoo7d.execute-api.us-east-1.amazonaws.com/"
+lambda_url = "YOUR_LAMBDA_URL"
 
 
 def convert_image(image):
